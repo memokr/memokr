@@ -1,7 +1,7 @@
-## 🫡 Hello, I’m Guillermo Kramsky!
+## Hello, I’m Guillermo Kramsky!
 
 
-### 👨🏻‍💻 iOS Developer | Degree in Mathematics and Computer Science
+### iOS Developer | Degree in Mathematics and Computer Science
 
 - 🎓 **Apple Developer Academy Graduate** – Refined my iOS development skills and became a more proficient app developer.  
 - 🏛️ **ARTE Program Participant** – Working on cutting-edge projects in collaboration with Federico II researchers, exploring visionOS and spatial computing technologies.
